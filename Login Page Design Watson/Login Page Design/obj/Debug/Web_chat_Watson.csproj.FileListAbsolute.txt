@@ -1,0 +1,30 @@
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\csc.exe
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\vbc.exe
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\VBCSCompiler.exe
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\Login Page Design.dll.config
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\Login Page Design.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\Login Page Design.pdb
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\obj\Debug\Web_chat_Watson.csproj.CoreCompileInputs.cache
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\obj\Debug\Web_chat_Watson.csproj.CopyComplete
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\obj\Debug\Login Page Design.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\obj\Debug\Login Page Design.pdb
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\Newtonsoft.Json.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\Newtonsoft.Json.xml
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\System.Net.Http.Formatting.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\System.Web.Http.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\System.Web.Http.WebHost.dll
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\System.Net.Http.Formatting.xml
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\System.Web.Http.xml
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\bin\System.Web.Http.WebHost.xml
+C:\Users\IulianChirciu\Desktop\Login Page Design\Login Page Design\obj\Debug\Web_chat_Watson.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\obj\Debug\netcoreapp2.0\Tema 1 LF.csprojAssemblyReference.cache
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\obj\Debug\netcoreapp2.0\Tema 1 LF.csproj.CoreCompileInputs.cache
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\obj\Debug\netcoreapp2.0\Tema 1 LF.AssemblyInfoInputs.cache
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\obj\Debug\netcoreapp2.0\Tema 1 LF.AssemblyInfo.cs
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\bin\Debug\netcoreapp2.0\Tema 1 LF.deps.json
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\bin\Debug\netcoreapp2.0\Tema 1 LF.runtimeconfig.json
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\bin\Debug\netcoreapp2.0\Tema 1 LF.runtimeconfig.dev.json
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\bin\Debug\netcoreapp2.0\Tema 1 LF.dll
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\bin\Debug\netcoreapp2.0\Tema 1 LF.pdb
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\obj\Debug\netcoreapp2.0\Tema 1 LF.dll
+C:\Users\IulianChirciu\source\repos\Tema 1 LF\Tema 1 LF\obj\Debug\netcoreapp2.0\Tema 1 LF.pdb

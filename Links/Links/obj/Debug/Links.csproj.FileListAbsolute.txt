@@ -1,0 +1,10 @@
+C:\Users\IulianChirciu\source\repos\Links\Links\bin\Debug\Links.exe.config
+C:\Users\IulianChirciu\source\repos\Links\Links\bin\Debug\Links.exe
+C:\Users\IulianChirciu\source\repos\Links\Links\bin\Debug\Links.pdb
+C:\Users\IulianChirciu\source\repos\Links\Links\obj\Debug\Links.csprojAssemblyReference.cache
+C:\Users\IulianChirciu\source\repos\Links\Links\obj\Debug\Links.csproj.CoreCompileInputs.cache
+C:\Users\IulianChirciu\source\repos\Links\Links\obj\Debug\Links.exe
+C:\Users\IulianChirciu\source\repos\Links\Links\obj\Debug\Links.pdb
+C:\Users\IulianChirciu\source\repos\Links\Links\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\IulianChirciu\source\repos\Links\Links\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\IulianChirciu\source\repos\Links\Links\obj\Debug\Links.csproj.CopyComplete

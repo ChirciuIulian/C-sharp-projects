@@ -1,0 +1,97 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.cover {
+    background: url(Stock/wall_e_robot-wallpaper-3840x2160.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.elements {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro {
+    width: 24vw;
+    height: 60vh;
+    box-shadow: black 0px 40px 60px;
+}
+
+#Label1 {
+    padding-top: 7vh;
+    padding-left: 7.5vw;
+    font-size: 6vw;
+    font-size: 8vh;
+    color: darkgrey;
+    font-family: 'Leckerli One','Algerian';
+}
+
+.txt0 {
+    color: antiquewhite;
+}
+
+.txt1 {
+    margin-top: 4vh;
+    margin-left: 2vw;
+}
+
+.txt2 {
+    margin-top: 7.4vh;
+    margin-left: 2vw;
+}
+
+.txt3 {
+    margin-top: 10.8vh;
+    margin-left: 2vw;
+}
+
+    .txt1[placeholder], .txt2[placeholder], .txt3[placeholder] {
+        font-family: 'Poor Story', cursive;
+        font-size: 2vw;
+        padding-left: 6vw;
+    }
+
+.txtstyle {
+    width: 20vw;
+    height: 6vh;
+    border: 0;
+    border-radius: 4%;
+    background-color: rgba(252,251,251,0.80);
+    box-shadow: black 0px 30px 50px;
+}
+
+.btnstyle {
+    margin-top: 10vh;
+    width: 11vw;
+    height: 7vh;
+    margin-left: 0.6vw;
+    font-family: 'Oleo Script Swash Caps';
+    font-size: 2vw;
+    border: 0px;
+    color: black;
+    text-shadow: black 0px 10px 10px;
+    background-color: rgba(255,255,255,0.57);
+}
+
+    .btnstyle:hover {
+        background-color:darkslategray;
+        box-shadow: black 0px 90px 80px;
+        font-size:x-large;
+    }
+
+.left {
+    position: absolute;
+    left: 0px;
+}

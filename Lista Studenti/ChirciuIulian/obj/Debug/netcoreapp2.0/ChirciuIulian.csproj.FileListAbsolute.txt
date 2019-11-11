@@ -1,0 +1,11 @@
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\bin\Debug\netcoreapp2.0\ChirciuIulian.deps.json
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\bin\Debug\netcoreapp2.0\ChirciuIulian.runtimeconfig.json
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\bin\Debug\netcoreapp2.0\ChirciuIulian.runtimeconfig.dev.json
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\bin\Debug\netcoreapp2.0\ChirciuIulian.dll
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\bin\Debug\netcoreapp2.0\ChirciuIulian.pdb
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\obj\Debug\netcoreapp2.0\ChirciuIulian.csprojAssemblyReference.cache
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\obj\Debug\netcoreapp2.0\ChirciuIulian.csproj.CoreCompileInputs.cache
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\obj\Debug\netcoreapp2.0\ChirciuIulian.AssemblyInfoInputs.cache
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\obj\Debug\netcoreapp2.0\ChirciuIulian.AssemblyInfo.cs
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\obj\Debug\netcoreapp2.0\ChirciuIulian.dll
+c:\users\iulianchirciu\source\repos\ChirciuIulian\ChirciuIulian\obj\Debug\netcoreapp2.0\ChirciuIulian.pdb

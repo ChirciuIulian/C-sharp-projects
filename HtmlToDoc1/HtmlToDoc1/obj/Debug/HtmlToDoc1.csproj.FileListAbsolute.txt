@@ -1,0 +1,7 @@
+C:\Users\IulianChirciu\source\repos\HtmlToDoc1\HtmlToDoc1\obj\Debug\HtmlToDoc1.csprojAssemblyReference.cache
+C:\Users\IulianChirciu\source\repos\HtmlToDoc1\HtmlToDoc1\obj\Debug\HtmlToDoc1.csproj.CoreCompileInputs.cache
+C:\Users\IulianChirciu\source\repos\HtmlToDoc1\HtmlToDoc1\bin\Debug\HtmlToDoc1.exe.config
+C:\Users\IulianChirciu\source\repos\HtmlToDoc1\HtmlToDoc1\bin\Debug\HtmlToDoc1.exe
+C:\Users\IulianChirciu\source\repos\HtmlToDoc1\HtmlToDoc1\bin\Debug\HtmlToDoc1.pdb
+C:\Users\IulianChirciu\source\repos\HtmlToDoc1\HtmlToDoc1\obj\Debug\HtmlToDoc1.exe
+C:\Users\IulianChirciu\source\repos\HtmlToDoc1\HtmlToDoc1\obj\Debug\HtmlToDoc1.pdb

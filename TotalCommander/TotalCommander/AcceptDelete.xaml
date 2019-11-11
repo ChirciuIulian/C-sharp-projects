@@ -1,0 +1,20 @@
+﻿<Window x:Class="TotalCommander.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TotalCommander"
+        mc:Ignorable="d"
+        Title="Window2" Height="168.44" Width="417.021">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="233*"/>
+            <ColumnDefinition Width="177*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="The folder is not empty" HorizontalAlignment="Left" Margin="120,20,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label Content="Do you wish to delete it?" HorizontalAlignment="Left" Margin="29,87,0,0" VerticalAlignment="Top"/>
+        <Button Content="No" HorizontalAlignment="Left" Margin="216,90,0,0" VerticalAlignment="Top" IsCancel="True" Width="75" Grid.ColumnSpan="2"/>
+        <Button Content="Yes" HorizontalAlignment="Left" Margin="73.667,90,0,0" VerticalAlignment="Top" IsCancel="True" Width="75" Click="Yes_btn" Grid.Column="1"/>
+
+    </Grid>
+</Window>

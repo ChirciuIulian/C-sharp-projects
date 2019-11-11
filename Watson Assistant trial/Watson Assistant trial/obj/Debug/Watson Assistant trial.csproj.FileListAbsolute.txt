@@ -1,0 +1,10 @@
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\bin\Debug\Watson Assistant trial.exe.config
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\bin\Debug\Watson Assistant trial.exe
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\bin\Debug\Watson Assistant trial.pdb
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\obj\Debug\Watson Assistant trial.csprojAssemblyReference.cache
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\obj\Debug\Watson Assistant trial.csproj.CoreCompileInputs.cache
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\obj\Debug\Watson Assistant trial.exe
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\obj\Debug\Watson Assistant trial.pdb
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IulianChirciu\source\repos\Watson Assistant trial\Watson Assistant trial\obj\Debug\Watson Assistant trial.csproj.CopyComplete

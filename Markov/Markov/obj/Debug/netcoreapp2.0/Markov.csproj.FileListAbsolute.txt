@@ -1,0 +1,11 @@
+C:\Users\IulianChirciu\source\repos\Markov\Markov\bin\Debug\netcoreapp2.0\Markov.deps.json
+C:\Users\IulianChirciu\source\repos\Markov\Markov\bin\Debug\netcoreapp2.0\Markov.runtimeconfig.json
+C:\Users\IulianChirciu\source\repos\Markov\Markov\bin\Debug\netcoreapp2.0\Markov.runtimeconfig.dev.json
+C:\Users\IulianChirciu\source\repos\Markov\Markov\bin\Debug\netcoreapp2.0\Markov.dll
+C:\Users\IulianChirciu\source\repos\Markov\Markov\bin\Debug\netcoreapp2.0\Markov.pdb
+C:\Users\IulianChirciu\source\repos\Markov\Markov\obj\Debug\netcoreapp2.0\Markov.csprojAssemblyReference.cache
+C:\Users\IulianChirciu\source\repos\Markov\Markov\obj\Debug\netcoreapp2.0\Markov.csproj.CoreCompileInputs.cache
+C:\Users\IulianChirciu\source\repos\Markov\Markov\obj\Debug\netcoreapp2.0\Markov.AssemblyInfoInputs.cache
+C:\Users\IulianChirciu\source\repos\Markov\Markov\obj\Debug\netcoreapp2.0\Markov.AssemblyInfo.cs
+C:\Users\IulianChirciu\source\repos\Markov\Markov\obj\Debug\netcoreapp2.0\Markov.dll
+C:\Users\IulianChirciu\source\repos\Markov\Markov\obj\Debug\netcoreapp2.0\Markov.pdb

@@ -1,0 +1,3 @@
+﻿Vocabular:(a b c);
+SeTransforma:(aa cc bb);
+Transformari:(b a c);
