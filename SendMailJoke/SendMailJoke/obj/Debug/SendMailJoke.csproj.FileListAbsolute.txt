@@ -1,7 +1,0 @@
-C:\Users\IulianChirciu\source\repos\SendMailJoke\SendMailJoke\bin\Debug\SendMailJoke.exe.config
-C:\Users\IulianChirciu\source\repos\SendMailJoke\SendMailJoke\bin\Debug\SendMailJoke.exe
-C:\Users\IulianChirciu\source\repos\SendMailJoke\SendMailJoke\bin\Debug\SendMailJoke.pdb
-C:\Users\IulianChirciu\source\repos\SendMailJoke\SendMailJoke\obj\Debug\SendMailJoke.csprojAssemblyReference.cache
-C:\Users\IulianChirciu\source\repos\SendMailJoke\SendMailJoke\obj\Debug\SendMailJoke.csproj.CoreCompileInputs.cache
-C:\Users\IulianChirciu\source\repos\SendMailJoke\SendMailJoke\obj\Debug\SendMailJoke.exe
-C:\Users\IulianChirciu\source\repos\SendMailJoke\SendMailJoke\obj\Debug\SendMailJoke.pdb
